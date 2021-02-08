@@ -1,2 +1,3 @@
 language = "python3"
-run= "python f_to_c.py"
+#run = "python days_hours.py"
+run = "python f_to_c.py"
