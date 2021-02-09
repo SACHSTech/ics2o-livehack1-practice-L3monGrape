@@ -6,6 +6,11 @@ Author: Yeh. A
 Created: 08/02/2021
 
 """
+#title of the converter
+print("***** Days to Hours Converter *****")
+
+print(" ")
+
 #get number of hours
 number_of_hours = int(input("Enter number of hours: "))
 

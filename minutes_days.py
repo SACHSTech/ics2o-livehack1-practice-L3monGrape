@@ -6,6 +6,11 @@ Author: Yeh. A
 Created: 08/02/2021
 
 """
+#title of the converter
+print("***** Minutes to Days Converter *****")
+
+print(" ")
+
 #get number of minutes
 number_of_minutes = int(input("Enter number of minutes: "))
 

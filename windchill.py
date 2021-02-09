@@ -6,6 +6,11 @@ Author: Yeh. A
 Created: 08/02/2021
 
 """
+# title of calculator
+print("***** Windchill Calculator *****")
+
+print(" ")
+
 #collect temperature and windspeed values
 T = int(input("Enter temperature in celsius: "))
 V = int(input("Enter windspeed in km/h: "))
