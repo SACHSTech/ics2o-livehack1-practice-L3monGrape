@@ -5,7 +5,7 @@ Purpose: Lets you enter a measure in degrees Fahrenheit and prints the result in
 
 Author: Yeh. A
 
-Created: 08/02/2021
+Created: date in 08/02/2021
 ---------------------------------------------------------
 """
 print("***** Fahrenheit to Celsius Converter *****")
