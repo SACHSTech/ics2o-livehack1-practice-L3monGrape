@@ -13,4 +13,4 @@ fahrenheit = int(input("Enter temperature in degrees fahrenheit: "))
 celsius = (fahrenheit - 32)*5/9
 
 #output result
-print("Temperature in degrees celsius: ", celsius)
+print("Temperature in degrees celsius:", celsius)

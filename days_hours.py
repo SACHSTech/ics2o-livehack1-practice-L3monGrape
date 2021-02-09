@@ -14,4 +14,4 @@ hours_to_days = number_of_hours//24
 remaining_hours = number_of_hours % 24
 
 #output result
-print("Number of Days: ", hours_to_days, "days", remaining_hours, "hours")  
+print("Number of Days:", hours_to_days, "days", remaining_hours, "hours")  

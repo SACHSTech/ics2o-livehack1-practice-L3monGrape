@@ -15,4 +15,4 @@ remaining_hours = number_of_minutes % 1440//60
 remaining_minutes = number_of_minutes % 1440 % 60
 
 #output result
-print("Number of Days: ", minutes_to_days, "days", remaining_hours, "hours", remaining_minutes, "minutes")
+print("Number of Days:", minutes_to_days, "days", remaining_hours, "hours", remaining_minutes, "minutes")
